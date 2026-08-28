@@ -2,10 +2,7 @@
 
 AI-powered web application that analyzes resumes and provides ATS-style feedback, keyword matching, and improvement suggestions.
 
-🌐 **Live Demo:** https://ai-resume-analyzer-ivory-psi.vercel.app  
-🎥 **Demo Video:** https://www.youtube.com/watch?v=vwf1yrI28TI  
 
----
 
 ## ✨ Features
 
@@ -117,19 +114,3 @@ React Frontend → Express API → MongoDB + OpenAI API
 
 ---
 
-## 📌 Notes
-
-* First request may be slow (Render free tier)
-* Demo mode does not save data
-* Requires OpenAI API key for analysis
-
----
-
-## 👨‍💻 Author
-
-Mahir Alam
-(University of Calgary)
-
----
-
-⭐ Star the repo if you found it useful!
