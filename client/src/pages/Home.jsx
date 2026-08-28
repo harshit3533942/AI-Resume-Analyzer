@@ -308,7 +308,7 @@ function Home() {
 
         <section>
           <div className="mx-auto w-full max-w-7xl px-6 py-16 sm:px-8">
-            <div className="rounded-4xl border border-cyan-400/20 bg-cyan-500/5 p-8 text-center sm:p-10">
+            <div className="cd .. border border-cyan-400/20 bg-cyan-500/5 p-8 text-center sm:p-10">
               <p className="text-sm font-semibold uppercase tracking-[0.22em] text-cyan-300">
                 Get started
               </p>
